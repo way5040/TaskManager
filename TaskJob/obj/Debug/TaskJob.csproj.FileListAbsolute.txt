@@ -1,0 +1,14 @@
+D:\MQSource\TaksJob\TaskJob\TaskJob\bin\Debug\TaskJob.exe.config
+D:\MQSource\TaksJob\TaskJob\TaskJob\bin\Debug\TaskJob.exe
+D:\MQSource\TaksJob\TaskJob\TaskJob\bin\Debug\TaskJob.pdb
+D:\MQSource\TaksJob\TaskJob\TaskJob\obj\Debug\TaskJob.csprojAssemblyReference.cache
+D:\MQSource\TaksJob\TaskJob\TaskJob\obj\Debug\TaskJob.Properties.Resources.resources
+D:\MQSource\TaksJob\TaskJob\TaskJob\obj\Debug\TaskJob.csproj.GenerateResource.cache
+D:\MQSource\TaksJob\TaskJob\TaskJob\obj\Debug\TaskJob.csproj.CoreCompileInputs.cache
+D:\MQSource\TaksJob\TaskJob\TaskJob\obj\Debug\TaskJob.exe
+D:\MQSource\TaksJob\TaskJob\TaskJob\obj\Debug\TaskJob.pdb
+D:\MQSource\TaksJob\TaskJob\TaskJob\bin\Debug\Newtonsoft.Json.dll
+D:\MQSource\TaksJob\TaskJob\TaskJob\bin\Debug\Newtonsoft.Json.xml
+D:\MQSource\TaksJob\TaskJob\TaskJob\obj\Debug\TaskJob.csproj.CopyComplete
+D:\MQSource\TaksJob\TaskJob\TaskJob\obj\Debug\TaskJob.frmEditTask.resources
+D:\MQSource\TaksJob\TaskJob\TaskJob\obj\Debug\TaskJob.FrnMain.resources
